@@ -1,8 +1,0 @@
-,Series,ADF_p_value,ADF_Stationary,KPSS_p_value,KPSS_Stationary
-0,price_1_unit,4.061646629850766e-21,True,0.06750842689838066,True
-1,price_2_house,1.7417969906938653e-20,True,0.01,False
-2,price_2_unit,5.739614713447222e-20,True,0.01,False
-3,price_3_house,0.00021306206005084798,True,0.01,False
-4,price_3_unit,1.7029764262682991e-18,True,0.01,False
-5,price_4_house,4.5206843091367945e-09,True,0.01,False
-6,price_5_house,1.6567913605696014e-20,True,0.01,False
